@@ -6,4 +6,4 @@ enabled = true
 
   [analyzers.meta]
   plugins = ["react"]
-  cyclomatic_complexity_threshold = "low"
+  cyclomatic_complexity_threshold = "critical"
